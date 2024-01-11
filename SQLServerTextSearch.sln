@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1ABB36C-CD88-4569-9593-8E6DD74B7B61}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+		sp_searchtext.sql = sp_searchtext.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{6B57512B-6C8C-44D1-8750-B854BC24262A}"
+	ProjectSection(SolutionItems) = preProject
+		Images\InterestingObjects.jpg = Images\InterestingObjects.jpg
+		Images\StoredProcedures.jpg = Images\StoredProcedures.jpg
+		Images\StoredProceduresWithNameAndSchema.jpg = Images\StoredProceduresWithNameAndSchema.jpg
+		Images\StoredProceduresWithRefineSearchString.jpg = Images\StoredProceduresWithRefineSearchString.jpg
+		Images\UserTablesWithSchema.jpg = Images\UserTablesWithSchema.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B57512B-6C8C-44D1-8750-B854BC24262A} = {D1ABB36C-CD88-4569-9593-8E6DD74B7B61}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB0FF1B-7F26-48CC-B347-FA96EB4378B2}
+	EndGlobalSection
+EndGlobal
